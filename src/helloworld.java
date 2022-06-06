@@ -3,6 +3,7 @@
 class hello {
 
     public static void main(String[] args) {
+        int hi = 0;
         //user interface could just go here
         System.out.println("hello world");
     }
